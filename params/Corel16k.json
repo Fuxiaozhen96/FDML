@@ -1,0 +1,14 @@
+{
+ "dataset": "Corel16k001",
+ "batch_size": 256,
+ "test_batch_size": 256,
+ "learning_rate": 0.001,
+ "max_epoch": 90,
+ "feature_dim": 500,
+ "label_dim": 153,
+ "latent_dim": 155,
+ "keep_prob": 0.1,
+ "lambda1": 3,
+ "lambda2": 3,
+ "lambda3": 0.1
+}
